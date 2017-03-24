@@ -1,3 +1,15 @@
+![alt text][img1]Login
+![alt text][img1]Home
+![alt text][img1]Register
+![alt text][img1]View
+![alt text][img1]New Product
+
+[img1]:https://github.com/Kizaken/laravel-WebApp-Project/blob/master/login.PNG
+[img1]:https://github.com/Kizaken/laravel-WebApp-Project/blob/master/home.PNG
+[img1]:https://github.com/Kizaken/laravel-WebApp-Project/blob/master/Register.PNG
+[img1]:https://github.com/Kizaken/laravel-WebApp-Project/blob/master/View.PNG
+[img1]:https://github.com/Kizaken/laravel-WebApp-Project/blob/master/NewProduct.PNG
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
