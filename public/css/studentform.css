@@ -1,0 +1,58 @@
+
+#compressed{
+	margin-top: 1em;
+	margin-left: 35em;
+	position:absolute;
+}
+
+	div{
+	 background-color: LIGHTGREY;
+    width: 250px;
+    padding: 25px;
+    border: 25px solid;
+    border-style: ridge;
+    border-radius: 25px;
+    margin: 20px;
+
+}
+	p{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+
+	tr{
+		border-style: ridge;
+	}
+
+#list{
+
+	margin-top: 1em;
+	margin-left: 35em;
+	position:absolute;
+	 background-color: LIGHTGREY;
+    width: 105em;
+    padding: 25px;
+    border: 25px solid;
+    border-style: ridge;
+    border-radius: 25px;
+    margin: 20px;
+
+    p{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+
+	tr{
+		border-style: ridge;
+	}
+}
+
+#listhead{
+
+	width: 105em;
+	margin-top: 1em;
+	margin-left: 1em;
+	
+}
